@@ -64,5 +64,3 @@ def how_much(a,b):
 
 for i in range(len(lst)-1):
     how_much(lst[i][1],lst[i+1][0])
-
-print(windows)
